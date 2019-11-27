@@ -1,4 +1,4 @@
-public class Problem711 {
+public class Problem771 {
     public static void main(String[] args){
     int result = numJewelsInStones("aA", "aAAbbbb");
     System.out.println(result);
